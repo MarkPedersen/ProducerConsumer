@@ -39,6 +39,10 @@ namespace Prodcon
 
         }
 
+        public void LastElement()
+        {
+            
+        }
         
         public void Put(int element)
         {
@@ -81,8 +85,5 @@ namespace Prodcon
         //{
         //    queue.Peek();
         //}
-
-
-
     }
 }
